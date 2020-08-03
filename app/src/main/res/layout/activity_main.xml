@@ -42,6 +42,25 @@
         android:text="@string/custom_activity"
         tools:layout_editor_absoluteX="15dp"
         tools:layout_editor_absoluteY="264dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="crearbotones"
+        android:text="@string/botontest"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="264dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="contruyeFormulario"
+        android:text="@string/consumeapi"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="264dp" />
     </LinearLayout>
+
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,5 +2,8 @@
     <string name="app_name">eAssist</string>
     <string name="scan_barcode">Configurar Scanner</string>
     <string name="custom_activity">Scanner Continuo</string>
+    <string name="botontest">Crear Botones</string>
+    <string name="consumeapi">Consume Api</string>
+    <string name="Enviar">Enviar</string>
 
 </resources>
